@@ -1,4 +1,4 @@
-Projeto Podcast Gerado por I.A.s
+💡Projeto Podcast Gerado por I.A.s
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts aprendidos no curso da DIO.
 
